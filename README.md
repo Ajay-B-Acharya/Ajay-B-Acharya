@@ -203,16 +203,6 @@ TypeScript • React • Python • FastAPI
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ajay-B-Acharya/Ajay-B-Acharya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
